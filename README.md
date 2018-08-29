@@ -4,7 +4,7 @@
 ### (In short, thie example continuously stream all results from paged API(ex: api/page=2, api/page=3) using bluebird, superagent, and nodejs core stream(Transform and Readable))
 
 For these exercises, please reference the Star Wars API.
-These exercises assume that you have a working understanding of streaming and promises (asynchronous programming in NodeJS). If you have this understanding, we don't expect these exercises to take more than an hour or two. If its taking you longer, please reach out for assistance.
+These exercises assume that you have a working understanding of streaming and promises (asynchronous programming in NodeJS)
 
 Please create a new folder to hold your sample projects. Each project should go in its own folder, ex. exercise-1, though copying and pasting as you progress projects sounds like a good idea.
 
