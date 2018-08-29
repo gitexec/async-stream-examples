@@ -1,0 +1,16 @@
+{
+  "name": "example1",
+  "version": "1.0.0",
+  "description": " Using NodeJS write a simple application that streams all results from https://swapi.co/api/people, identifies the person who appears in the most films and logs to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "superagent": "^3.8.3",
+    "through2": "^2.0.3"
+  }
+}
