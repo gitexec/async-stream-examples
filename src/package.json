@@ -11,6 +11,5 @@
   "dependencies": {
     "bluebird": "^3.5.1",
     "superagent": "^3.8.3",
-    "through2": "^2.0.3"
   }
 }
